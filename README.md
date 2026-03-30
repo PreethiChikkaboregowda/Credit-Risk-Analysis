@@ -8,7 +8,7 @@ insights through an interactive Power BI dashboard.
 
 ## 📌 Key Findings
 
-- **Grade G** borrowers default at **98%** vs **10%** for Grade A — loan grade is the #1 risk predictor
+- **Grade G** borrowers default at **98%** vs **10%** for Grade A - loan grade is the #1 risk predictor
 - **1 in 5** borrowers defaults — 7K losses out of 33K applicants
 - **Debt consolidation** loans carry the highest default risk at 29%
 - High burden borrowers default at **4x** the normal rate
@@ -178,24 +178,8 @@ Created 3 new business-relevant features:
 
 ---
 
-## ▶️ How to Run
 
-**Python Notebook:**
-```bash
-pip install pandas matplotlib seaborn
-jupyter notebook Credit_risk_analysis.ipynb
-```
 
-**SQL Queries:**
-```bash
-# Import credit_risk_cleaned.csv into MySQL
-# Run credit_risk_analysis.sql in MySQL Workbench
-```
-
-**Power BI Dashboard:**
-```bash
-# Open Credit_risk_analysis.pbix in Power BI Desktop
-```
 
 ---
 
