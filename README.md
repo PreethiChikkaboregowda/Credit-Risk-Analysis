@@ -56,11 +56,9 @@ credit-risk-analysis/
 │   ├── credit_risk_dataset.csv        # Raw dataset
 │   └── credit_risk_cleaned.csv        # Cleaned dataset
 │
-├── notebooks/
-│   └── Credit_risk_analysis.ipynb     # Python cleaning + EDA + feature engineering
+├── Credit_risk_analysis.ipynb     # Python cleaning + EDA + feature engineering
 │
-├── sql/
-│   └── credit_risk_analysis.sql       # All 11 SQL queries
+├── credit_risk_analysis.sql       # All 11 SQL queries
 │
 ├── dashboard/
 │   ├── Credit_risk_analysis.pbix      # Power BI dashboard file
